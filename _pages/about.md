@@ -21,11 +21,11 @@ I am currently at Stanford University HAI, currently working on spatial intellig
 
 
 
-# 🔥 News
+# 👀 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# ✨ Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,25 +41,25 @@ I am currently at Stanford University HAI, currently working on spatial intellig
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 🎉 Educations
 - *2026.06 - 2029.06(now)*, PhD, Stanford University, USA.
 - *2025.01 - 2026.01*, Master, Nanyang Technological University, Singapore. 
 - *2018.09 - 2022.06*, Undergraduate, Ningxia Univeristy, China.
 
-# 💬 Invited Talks
+# 😈 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 🗺️ Internships
 - *2021.11 - 2022.11*, Hanyao Graphene Energy Storage Material Technology Co., Ltd., China.
 - *2021.04 - 2021.05*, Yinchuan LONGi Silicon Materials Co., Ltd., China.
 - *2021.01 - 2022.01*, China Science and Technology Wing (Beijing) Technology Co., Ltd., China.
 - *2020.06 - 2022.07*, Da Ai Holdings Limited, Ltd., China.
 
-# 💻 Career
+# ⚗️ Career
 - *2023.07 - now* , GuaGuaniu Intelligent Technology Co., Ltd., China.
 - *2022.07 - 2023.07*, BYD Auto Co., Ltd., China.
