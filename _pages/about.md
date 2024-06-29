@@ -60,6 +60,6 @@ I am currently at Stanford University HAI, currently working on spatial intellig
 - *2021.01 - 2022.01*, China Science and Technology Wing (Beijing) Technology Co., Ltd., China.
 - *2020.06 - 2022.07*, Da Ai Holdings Limited, Ltd., China.
 
-# ⚗️ Career
+# ⚗️ Careers
 - *2023.07 - now* , GuaGuaniu Intelligent Technology Co., Ltd., China.
 - *2022.07 - 2023.07*, BYD Auto Co., Ltd., China.
