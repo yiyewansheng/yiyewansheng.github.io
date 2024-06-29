@@ -46,8 +46,8 @@ I am currently at Stanford University HAI, currently working on spatial intellig
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2026.06 - 2029.06(now)* , PhD, Stanford University, USA.
-- *2025.01 - 2026.01 , Master, Nanyang Technological University, Singapore. 
+- *2026.06 - 2029.06(now)*, PhD, Stanford University, USA.
+- *2025.01 - 2026.01*, Master, Nanyang Technological University, Singapore. 
 - *2018.09 - 2022.06*, Undergraduate, Ningxia Univeristy, China.
 
 # 💬 Invited Talks
@@ -62,4 +62,4 @@ I am currently at Stanford University HAI, currently working on spatial intellig
 
 # 💻 Career
 - *2023.07 - now* , GuaGuaniu Intelligent Technology Co., Ltd., China.
-- *2022.07 - 2023.07 , BYD Auto Co., Ltd., China.
+- *2022.07 - 2023.07*, BYD Auto Co., Ltd., China.
