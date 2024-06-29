@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "life is wilderness"
-description              : "Master student, research direction is artificial intelligence privacy and security, expected to graduate in December 2025."
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "PhD student, research direction is artificial intelligence technology and real-world applications, technologies include 3D, video, image, and sound generation. Expected to graduate in June 2029."
+repository               : "yiyewansheng/yiyewansheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jilong Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "Stanford University"
+  location         : "United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
